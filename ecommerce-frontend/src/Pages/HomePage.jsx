@@ -1,4 +1,4 @@
-import { Header } from "../components/HeaderComponent";
+import { Header } from "../components/HeaderComponent.jsx";
 import { products } from "../../starting-code/data/products.js";
 import "./HomePage.css";
 export function HomePage() {
